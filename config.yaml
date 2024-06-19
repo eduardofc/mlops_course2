@@ -1,0 +1,9 @@
+tables:
+  table_features: ./resources/features.csv
+  table_train: ./resources/train.csv
+  table_test: ./resources/test.csv
+  table_metrics: ./resources/metrics.csv
+
+modeling:
+  seed: 99
+  test_size: 0.2
